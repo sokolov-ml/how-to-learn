@@ -1,0 +1,7 @@
+﻿
+.footer__column {
+position: relative;
+display: flex;
+flex-flow: column;
+color: white;
+}

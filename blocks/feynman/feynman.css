@@ -1,0 +1,18 @@
+﻿@import url(./__link/feynman__link.css);
+@import url(./__subtitle/feynman__subtitle.css);
+@import url(./__title/feynman__title.css);
+
+/*Блок feynman*/
+.feynman {
+background-color: #f2f2f2;
+height: 790px;
+position: relative;
+padding: 100px 0 0 0;
+text-align: center;
+background-image: url(../../../images/feynman.png);
+background-repeat: no-repeat;
+background-position: bottom left;
+}
+
+
+
