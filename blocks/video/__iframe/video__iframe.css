@@ -1,4 +1,5 @@
 .video__iframe {
-  display: inline-block;
+  display: inline;
   margin: 0 10px;
+  border-style: none;
 }
