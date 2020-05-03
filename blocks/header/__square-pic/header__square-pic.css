@@ -7,4 +7,5 @@
   top: 64px;
   right: 0;
   background-color: #2f80ed;
+  transform: rotate(-15deg);
 }
